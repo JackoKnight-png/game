@@ -1,9 +1,9 @@
 registerHero({
-  name: "Your Hero",
+  name: "Gandolf",
   sprite: "mage",
-  hp: 40,
+  hp: 400,
   moves: [
-    { name: "Move One", damage: 6 },
+    { name: "Move One", damage: 1 },
     { name: "Move Two", damage: 8 },
     { name: "Move Three", damage: 10 }
   ]
